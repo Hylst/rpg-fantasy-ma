@@ -1,0 +1,129 @@
+@import 'tailwindcss';
+
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: dark light;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #242424;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+#root {
+  width: 100%;
+  min-height: 100vh;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+/* Styles pour les composants UI */
+.bg-gray-650 {
+  background-color: rgb(55 65 81 / 0.8);
+}
+
+/* Animations personnalisées */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.animate-fadeIn {
+  animation: fadeIn 0.3s ease-out;
+}
+
+/* Styles pour les barres de progression */
+.progress-bar {
+  transition: width 0.3s ease-in-out;
+}
+
+/* Styles pour les cartes interactives */
+.card-hover {
+  transition: all 0.2s ease-in-out;
+}
+
+.card-hover:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
+}
+
+/* Styles pour les boutons */
+.btn-primary {
+  background: linear-gradient(135deg, #3b82f6, #1d4ed8);
+  transition: all 0.2s ease-in-out;
+}
+
+.btn-primary:hover {
+  background: linear-gradient(135deg, #2563eb, #1e40af);
+  transform: translateY(-1px);
+}
+
+/* Styles pour les dialogues */
+.dialog-overlay {
+  backdrop-filter: blur(4px);
+}
+
+/* Styles pour les notifications */
+.notification {
+  animation: slideInRight 0.3s ease-out;
+}
+
+@keyframes slideInRight {
+  from { transform: translateX(100%); }
+  to { transform: translateX(0); }
+}
+
+/* Styles pour les éléments de jeu */
+.game-interface {
+  background: linear-gradient(135deg, #1f2937, #111827);
+}
+
+.character-avatar {
+  border: 2px solid #3b82f6;
+  box-shadow: 0 0 20px rgba(59, 130, 246, 0.3);
+}
+
+.world-map {
+  background: radial-gradient(circle at center, #374151, #1f2937);
+}
+
+.narrative-text {
+  line-height: 1.7;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.5);
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+  #root {
+    padding: 0.5rem;
+  }
+  
+  .game-interface {
+    padding: 1rem;
+  }
+}
+
+/* Accessibilité */
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+

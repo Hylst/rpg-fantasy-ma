@@ -1,0 +1,67 @@
+# Backend Dependencies for Railway Deployment
+
+# Core Flask Framework
+Flask==2.3.3
+Flask-CORS==4.0.0
+
+# HTTP Requests
+requests==2.31.0
+
+# Environment Variables
+python-dotenv==1.0.0
+
+# Database
+sqlite3
+
+# JSON Processing
+jsonify
+
+# Date and Time
+datetime
+
+# System and OS
+os
+sys
+
+# Logging
+logging
+
+# Random and UUID
+random
+uuid
+
+# Threading (for concurrent operations)
+threading
+
+# Time utilities
+time
+
+# Collections (for data structures)
+collections
+
+# Regular expressions
+re
+
+# Base64 encoding
+base64
+
+# HTTP status codes
+http
+
+# Werkzeug (Flask dependency)
+Werkzeug==2.3.7
+
+# Jinja2 (Flask templating)
+Jinja2==3.1.2
+
+# Click (Flask CLI)
+click==8.1.7
+
+# MarkupSafe (Jinja2 dependency)
+MarkupSafe==2.1.3
+
+# itsdangerous (Flask security)
+itsdangerous==2.1.2
+
+# Blinker (Flask signals)
+blinker==1.6.3

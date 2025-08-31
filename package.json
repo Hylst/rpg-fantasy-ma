@@ -1,0 +1,71 @@
+{
+  "name": "rpg-fantasy-web-app",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "A fantasy RPG web application with AI-powered narrative generation",
+  "author": "RPG Development Team",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+    "preview": "vite preview",
+    "start": "vite",
+    "check": "npm run lint && npm run build"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.20.1",
+    "axios": "^1.6.2",
+    "lucide-react": "^0.294.0",
+    "clsx": "^2.0.0",
+    "class-variance-authority": "^0.7.0",
+    "@radix-ui/react-slot": "^1.0.2",
+    "@radix-ui/react-dialog": "^1.0.5",
+    "@radix-ui/react-dropdown-menu": "^2.0.6",
+    "@radix-ui/react-select": "^2.0.0",
+    "@radix-ui/react-separator": "^1.0.3",
+    "@radix-ui/react-tabs": "^1.0.4",
+    "@radix-ui/react-toast": "^1.1.5",
+    "sonner": "^1.2.4",
+    "tailwind-merge": "^2.1.0",
+    "zustand": "^4.4.7"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.37",
+    "@types/react-dom": "^18.2.15",
+    "@vitejs/plugin-react": "^4.1.1",
+    "autoprefixer": "^10.4.16",
+    "eslint": "^8.53.0",
+    "eslint-plugin-react": "^7.33.2",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "eslint-plugin-react-refresh": "^0.4.4",
+    "postcss": "^8.4.31",
+    "tailwindcss": "^3.3.5",
+    "vite": "^4.5.0"
+  },
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=9.0.0"
+  },
+  "keywords": [
+    "rpg",
+    "fantasy",
+    "game",
+    "react",
+    "vite",
+    "ai",
+    "narrative",
+    "web-app"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/rpg-fantasy-web-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/your-username/rpg-fantasy-web-app/issues"
+  },
+  "homepage": "https://github.com/your-username/rpg-fantasy-web-app#readme"
+}

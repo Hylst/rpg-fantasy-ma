@@ -1,0 +1,75 @@
+{
+  "quest_id": "mq1",
+  "game_state": 
+    {
+      "session_id": "test_session",
+      "player": {
+        "name": "TestPlayer",
+        "character_class": "Warrior",
+        "stats": {
+          "health": 100,
+          "max_health": 100,
+          "mana": 50,
+          "max_mana": 50,
+          "strength": 15,
+          "dexterity": 10,
+          "intelligence": 8,
+          "charisma": 7,
+          "level": 1,
+          "experience": 0
+        },
+        "inventory": [],
+        "equipped_items": {}
+      },
+      "world_state": {
+        "current_location": "village_square",
+        "time_of_day": "day",
+        "weather": "clear",
+        "locations": {
+          "village_square": {
+            "id": "village_square",
+            "name": "Place du Village",
+            "description": "Le cœur animé du village.",
+            "type": "town",
+            "connections": [],
+            "npcs": ["npc_guard", "npc_merchant"],
+            "items": [],
+            "properties": {}
+          }
+        },
+        "npcs": {
+          "npc_guard": {
+            "id": "npc_guard",
+            "name": "Garde",
+            "type": "guard",
+            "location": "village_square",
+            "disposition": "neutral",
+            "dialogue_state": {},
+            "inventory": [],
+            "motivations": ["protéger le village"],
+            "daily_routine": [],
+            "relationships": {}
+          },
+          "npc_merchant": {
+            "id": "npc_merchant",
+            "name": "Marchand",
+            "type": "merchant",
+            "location": "village_square",
+            "disposition": "friendly",
+            "dialogue_state": {},
+            "inventory": [],
+            "motivations": ["vendre des marchandises"],
+            "daily_routine": [],
+            "relationships": {"npc_guard": "ami"}
+          }
+        },
+        "global_events": []
+      },
+      "quests": [],
+      "narrative_history": [],
+      "game_settings": {},
+      "created_at": "2025-07-18T10:00:00.000000",
+      "last_updated": "2025-07-18T10:00:00.000000"
+    }
+}
+

@@ -1,0 +1,1398 @@
+Refused to connect to '<URL>' because it violates the following Content Security Policy directive: "connect-src 'self' <URL> <URL> <URL> <URL> <URL> <URL> <URL> <URL> <URL>".
+
+Refused to connect to '<URL>' because it violates the following Content Security Policy directive: "connect-src 'self' <URL> <URL> <URL> <URL> <URL> <URL> <URL> <URL> <URL>".
+
+Refused to connect to '<URL>' because it violates the following Content Security Policy directive: "connect-src 'self' <URL> <URL> <URL> <URL> <URL> <URL> <URL> <URL> <URL>".
+
+Refused to connect to '<URL>' because it violates the following Content Security Policy directive: "connect-src 'self' <URL> <URL> <URL> <URL> <URL> <URL> <URL> <URL> <URL>".
+
+Refused to connect to '<URL>' because it violates the following Content Security Policy directive: "connect-src 'self' <URL> <URL> <URL> <URL> <URL> <URL> <URL> <URL> <URL>".
+
+Refused to connect to '<URL>' because it violates the following Content Security Policy directive: "connect-src 'self' <URL> <URL> <URL> <URL> <URL> <URL> <URL> <URL> <URL>".
+
+Refused to connect to '<URL>' because it violates the following Content Security Policy directive: "connect-src 'self' <URL> <URL> <URL> <URL> <URL> <URL> <URL> <URL> <URL>".
+
+Refused to connect to '<URL>' because it violates the following Content Security Policy directive: "connect-src 'self' <URL> <URL> <URL> <URL> <URL> <URL> <URL> <URL> <URL>".
+
+Refused to connect to '<URL>' because it violates the following Content Security Policy directive: "connect-src 'self' <URL> <URL> <URL> <URL> <URL> <URL> <URL> <URL> <URL>".
+
+Refused to connect to '<URL>' because it violates the following Content Security Policy directive: "connect-src 'self' <URL> <URL> <URL> <URL> <URL> <URL> <URL> <URL> <URL>".
+
+Refused to connect to '<URL>' because it violates the following Content Security Policy directive: "connect-src 'self' <URL> <URL> <URL> <URL> <URL> <URL> <URL> <URL> <URL>".
+
+Refused to connect to '<URL>' because it violates the following Content Security Policy directive: "connect-src 'self' <URL> <URL> <URL> <URL> <URL> <URL> <URL> <URL> <URL>".
+
+Refused to connect to '<URL>' because it violates the following Content Security Policy directive: "connect-src 'self' <URL> <URL> <URL> <URL> <URL> <URL> <URL> <URL> <URL>".
+
+Refused to connect to '<URL>' because it violates the following Content Security Policy directive: "connect-src 'self' <URL> <URL> <URL> <URL> <URL> <URL> <URL> <URL> <URL>".
+
+Refused to connect to '<URL>' because it violates the following Content Security Policy directive: "connect-src 'self' <URL> <URL> <URL> <URL> <URL> <URL> <URL> <URL> <URL>".
+
+Refused to connect to '<URL>' because it violates the following Content Security Policy directive: "connect-src 'self' <URL> <URL> <URL> <URL> <URL> <URL> <URL> <URL> <URL>".
+
+Refused to connect to '<URL>' because it violates the following Content Security Policy directive: "connect-src 'self' <URL> <URL> <URL> <URL> <URL> <URL> <URL> <URL> <URL>".
+
+Refused to connect to '<URL>' because it violates the following Content Security Policy directive: "connect-src 'self' <URL> <URL> <URL> <URL> <URL> <URL> <URL> <URL> <URL>".
+
+Refused to connect to '<URL>' because it violates the following Content Security Policy directive: "connect-src 'self' <URL> <URL> <URL> <URL> <URL> <URL> <URL> <URL> <URL>".
+
+Refused to connect to '<URL>' because it violates the following Content Security Policy directive: "connect-src 'self' <URL> <URL> <URL> <URL> <URL> <URL> <URL> <URL> <URL>".
+
+Refused to connect to '<URL>' because it violates the following Content Security Policy directive: "connect-src 'self' <URL> <URL> <URL> <URL> <URL> <URL> <URL> <URL> <URL>".
+
+Refused to connect to '<URL>' because it violates the following Content Security Policy directive: "connect-src 'self' <URL> <URL> <URL> <URL> <URL> <URL> <URL> <URL> <URL>".
+
+VM10:378 Refused to connect to 'https://api.manus.im/space.v1.SpaceService/HasSpaceEditPermission' because it violates the following Content Security Policy directive: "connect-src 'self' https://*.manus.space https://*.openrouter.ai https://*.deepseek.com https://*.grok.ai https://*.supabase.co https://*.huggingface.co https://huggingface.co https://*.hf.space https://sr-client-cfg.amplitude.com".
+
+next @ VM10:378
+script.file-downloads.hash.outbound-links.pageview-props.revenue.tagged-events.js:1 Refused to connect to 'https://plausible.io/api/event' because it violates the following Content Security Policy directive: "connect-src 'self' https://*.manus.space https://*.openrouter.ai https://*.deepseek.com https://*.grok.ai https://*.supabase.co https://*.huggingface.co https://huggingface.co https://*.hf.space https://sr-client-cfg.amplitude.com".
+
+u @ script.file-downloads.hash.outbound-links.pageview-props.revenue.tagged-events.js:1
+script.file-downloads.hash.outbound-links.pageview-props.revenue.tagged-events.js:1 Refused to connect to 'https://plausible.io/api/event' because it violates the following Content Security Policy directive: "connect-src 'self' https://*.manus.space https://*.openrouter.ai https://*.deepseek.com https://*.grok.ai https://*.supabase.co https://*.huggingface.co https://huggingface.co https://*.hf.space https://sr-client-cfg.amplitude.com".
+
+u @ script.file-downloads.hash.outbound-links.pageview-props.revenue.tagged-events.js:1
+VM10:1276 Refused to connect to 'https://api.manus.im/api/user_behavior/batch_create_event_v2' because it violates the following Content Security Policy directive: "connect-src 'self' https://*.manus.space https://*.openrouter.ai https://*.deepseek.com https://*.grok.ai https://*.supabase.co https://*.huggingface.co https://huggingface.co https://*.hf.space https://sr-client-cfg.amplitude.com".
+
+send @ VM10:1276
+VM10:1258 Refused to connect to 'https://api2.amplitude.com/2/httpapi' because it violates the following Content Security Policy directive: "connect-src 'self' https://*.manus.space https://*.openrouter.ai https://*.deepseek.com https://*.grok.ai https://*.supabase.co https://*.huggingface.co https://huggingface.co https://*.hf.space https://sr-client-cfg.amplitude.com".
+
+(anonymous) @ VM10:1258
+script.file-downloads.hash.outbound-links.pageview-props.revenue.tagged-events.js:1 Refused to connect to 'https://plausible.io/api/event' because it violates the following Content Security Policy directive: "connect-src 'self' https://*.manus.space https://*.openrouter.ai https://*.deepseek.com https://*.grok.ai https://*.supabase.co https://*.huggingface.co https://huggingface.co https://*.hf.space https://sr-client-cfg.amplitude.com".
+
+u @ script.file-downloads.hash.outbound-links.pageview-props.revenue.tagged-events.js:1
+VM10:1258 Refused to connect to 'https://api2.amplitude.com/2/httpapi' because it violates the following Content Security Policy directive: "connect-src 'self' https://*.manus.space https://*.openrouter.ai https://*.deepseek.com https://*.grok.ai https://*.supabase.co https://*.huggingface.co https://huggingface.co https://*.hf.space https://sr-client-cfg.amplitude.com".
+
+(anonymous) @ VM10:1258
+VM10:1258 Refused to connect to 'https://api2.amplitude.com/2/httpapi' because it violates the following Content Security Policy directive: "connect-src 'self' https://*.manus.space https://*.openrouter.ai https://*.deepseek.com https://*.grok.ai https://*.supabase.co https://*.huggingface.co https://huggingface.co https://*.hf.space https://sr-client-cfg.amplitude.com".
+
+(anonymous) @ VM10:1258
+script.file-downloads.hash.outbound-links.pageview-props.revenue.tagged-events.js:1 Refused to connect to 'https://plausible.io/api/event' because it violates the following Content Security Policy directive: "connect-src 'self' https://*.manus.space https://*.openrouter.ai https://*.deepseek.com https://*.grok.ai https://*.supabase.co https://*.huggingface.co https://huggingface.co https://*.hf.space https://sr-client-cfg.amplitude.com".
+
+u @ script.file-downloads.hash.outbound-links.pageview-props.revenue.tagged-events.js:1
+VM10:1258 Refused to connect to 'https://api2.amplitude.com/2/httpapi' because it violates the following Content Security Policy directive: "connect-src 'self' https://*.manus.space https://*.openrouter.ai https://*.deepseek.com https://*.grok.ai https://*.supabase.co https://*.huggingface.co https://huggingface.co https://*.hf.space https://sr-client-cfg.amplitude.com".
+
+(anonymous) @ VM10:1258
+(anonymous) @ VM10:1258
+a @ VM10:1254
+(anonymous) @ VM10:1254
+(anonymous) @ VM10:1254
+W @ VM10:1254
+e.send @ VM10:1258
+(anonymous) @ VM10:1256
+a @ VM10:1254
+(anonymous) @ VM10:1254
+(anonymous) @ VM10:1254
+W @ VM10:1254
+t.send @ VM10:1256
+(anonymous) @ VM10:1256
+a @ VM10:1254
+(anonymous) @ VM10:1254
+c @ VM10:1254
+Promise.then
+d @ VM10:1254
+(anonymous) @ VM10:1254
+W @ VM10:1254
+(anonymous) @ VM10:1256
+(anonymous) @ VM10:1256
+a @ VM10:1254
+(anonymous) @ VM10:1254
+(anonymous) @ VM10:1254
+W @ VM10:1254
+t.flush @ VM10:1256
+(anonymous) @ VM10:1256
+setTimeout
+t.schedule @ VM10:1256
+(anonymous) @ VM10:1256
+t.execute @ VM10:1256
+(anonymous) @ VM10:1256
+(anonymous) @ VM10:1256
+a @ VM10:1254
+(anonymous) @ VM10:1254
+c @ VM10:1254
+Promise.then
+d @ VM10:1254
+c @ VM10:1254
+Promise.then
+d @ VM10:1254
+c @ VM10:1254
+Promise.then
+d @ VM10:1254
+c @ VM10:1254
+Promise.then
+d @ VM10:1254
+c @ VM10:1254
+Promise.then
+d @ VM10:1254
+c @ VM10:1254
+Promise.then
+d @ VM10:1254
+c @ VM10:1254
+Promise.then
+d @ VM10:1254
+(anonymous) @ VM10:1254
+W @ VM10:1254
+t.apply @ VM10:1256
+(anonymous) @ VM10:1256
+setTimeout
+t.scheduleApply @ VM10:1256
+(anonymous) @ VM10:1256
+t.push @ VM10:1256
+(anonymous) @ VM10:1256
+a @ VM10:1254
+(anonymous) @ VM10:1254
+(anonymous) @ VM10:1254
+W @ VM10:1254
+t.process @ VM10:1256
+(anonymous) @ VM10:1266
+a @ VM10:1254
+(anonymous) @ VM10:1254
+(anonymous) @ VM10:1254
+W @ VM10:1254
+e.process @ VM10:1266
+(anonymous) @ VM10:1256
+a @ VM10:1254
+(anonymous) @ VM10:1254
+(anonymous) @ VM10:1254
+W @ VM10:1254
+t.dispatch @ VM10:1256
+t.track @ VM10:1256
+(anonymous) @ VM10:1266
+t.next @ VM10:1266
+e._next @ VM10:1266
+e.next @ VM10:1266
+(anonymous) @ VM10:1266
+a._next @ VM10:1266
+e.next @ VM10:1266
+(anonymous) @ VM10:1266
+a._next @ VM10:1266
+e.next @ VM10:1266
+(anonymous) @ VM10:1266
+a._next @ VM10:1266
+e.next @ VM10:1266
+c @ VM10:1266
+a @ VM10:1266
+e._execute @ VM10:1266
+e.execute @ VM10:1266
+e.flush @ VM10:1266
+setInterval
+setInterval @ VM10:1266
+e.requestAsyncId @ VM10:1266
+e.schedule @ VM10:1266
+t.schedule @ VM10:1266
+(anonymous) @ VM10:1266
+a._next @ VM10:1266
+e.next @ VM10:1266
+(anonymous) @ VM10:1266
+Hn @ VM10:1266
+e.next @ VM10:1266
+next @ VM10:1266
+t.next @ VM10:1266
+e._next @ VM10:1266
+e.next @ VM10:1266
+(anonymous) @ VM10:1266
+a._next @ VM10:1266
+e.next @ VM10:1266
+a @ VM10:1266
+VM10:1258 Refused to connect to 'https://api2.amplitude.com/2/httpapi' because it violates the following Content Security Policy directive: "connect-src 'self' https://*.manus.space https://*.openrouter.ai https://*.deepseek.com https://*.grok.ai https://*.supabase.co https://*.huggingface.co https://huggingface.co https://*.hf.space https://sr-client-cfg.amplitude.com".
+
+(anonymous) @ VM10:1258
+(anonymous) @ VM10:1258
+a @ VM10:1254
+(anonymous) @ VM10:1254
+(anonymous) @ VM10:1254
+W @ VM10:1254
+e.send @ VM10:1258
+(anonymous) @ VM10:1256
+a @ VM10:1254
+(anonymous) @ VM10:1254
+(anonymous) @ VM10:1254
+W @ VM10:1254
+t.send @ VM10:1256
+(anonymous) @ VM10:1256
+a @ VM10:1254
+(anonymous) @ VM10:1254
+c @ VM10:1254
+Promise.then
+d @ VM10:1254
+(anonymous) @ VM10:1254
+W @ VM10:1254
+(anonymous) @ VM10:1256
+(anonymous) @ VM10:1256
+a @ VM10:1254
+(anonymous) @ VM10:1254
+(anonymous) @ VM10:1254
+W @ VM10:1254
+t.flush @ VM10:1256
+(anonymous) @ VM10:1256
+setTimeout
+t.schedule @ VM10:1256
+(anonymous) @ VM10:1256
+t.execute @ VM10:1256
+(anonymous) @ VM10:1256
+(anonymous) @ VM10:1256
+a @ VM10:1254
+(anonymous) @ VM10:1254
+c @ VM10:1254
+Promise.then
+d @ VM10:1254
+c @ VM10:1254
+Promise.then
+d @ VM10:1254
+c @ VM10:1254
+Promise.then
+d @ VM10:1254
+c @ VM10:1254
+Promise.then
+d @ VM10:1254
+c @ VM10:1254
+Promise.then
+d @ VM10:1254
+c @ VM10:1254
+Promise.then
+d @ VM10:1254
+c @ VM10:1254
+Promise.then
+d @ VM10:1254
+(anonymous) @ VM10:1254
+W @ VM10:1254
+t.apply @ VM10:1256
+(anonymous) @ VM10:1256
+setTimeout
+t.scheduleApply @ VM10:1256
+(anonymous) @ VM10:1256
+t.push @ VM10:1256
+(anonymous) @ VM10:1256
+a @ VM10:1254
+(anonymous) @ VM10:1254
+(anonymous) @ VM10:1254
+W @ VM10:1254
+t.process @ VM10:1256
+(anonymous) @ VM10:1266
+a @ VM10:1254
+(anonymous) @ VM10:1254
+(anonymous) @ VM10:1254
+W @ VM10:1254
+e.process @ VM10:1266
+(anonymous) @ VM10:1256
+a @ VM10:1254
+(anonymous) @ VM10:1254
+(anonymous) @ VM10:1254
+W @ VM10:1254
+t.dispatch @ VM10:1256
+t.track @ VM10:1256
+(anonymous) @ VM10:1266
+t.next @ VM10:1266
+e._next @ VM10:1266
+e.next @ VM10:1266
+(anonymous) @ VM10:1266
+a._next @ VM10:1266
+e.next @ VM10:1266
+(anonymous) @ VM10:1266
+a._next @ VM10:1266
+e.next @ VM10:1266
+(anonymous) @ VM10:1266
+Hn @ VM10:1266
+e.next @ VM10:1266
+next @ VM10:1266
+t.next @ VM10:1266
+e._next @ VM10:1266
+e.next @ VM10:1266
+(anonymous) @ VM10:1266
+a._next @ VM10:1266
+e.next @ VM10:1266
+a @ VM10:1266
+script.file-downloads.hash.outbound-links.pageview-props.revenue.tagged-events.js:1 Refused to connect to 'https://plausible.io/api/event' because it violates the following Content Security Policy directive: "connect-src 'self' https://*.manus.space https://*.openrouter.ai https://*.deepseek.com https://*.grok.ai https://*.supabase.co https://*.huggingface.co https://huggingface.co https://*.hf.space https://sr-client-cfg.amplitude.com".
+
+u @ script.file-downloads.hash.outbound-links.pageview-props.revenue.tagged-events.js:1
+f @ script.file-downloads.hash.outbound-links.pageview-props.revenue.tagged-events.js:1
+m @ script.file-downloads.hash.outbound-links.pageview-props.revenue.tagged-events.js:1
+VM10:1258 Refused to connect to 'https://api2.amplitude.com/2/httpapi' because it violates the following Content Security Policy directive: "connect-src 'self' https://*.manus.space https://*.openrouter.ai https://*.deepseek.com https://*.grok.ai https://*.supabase.co https://*.huggingface.co https://huggingface.co https://*.hf.space https://sr-client-cfg.amplitude.com".
+
+(anonymous) @ VM10:1258
+(anonymous) @ VM10:1258
+a @ VM10:1254
+(anonymous) @ VM10:1254
+(anonymous) @ VM10:1254
+W @ VM10:1254
+e.send @ VM10:1258
+(anonymous) @ VM10:1256
+a @ VM10:1254
+(anonymous) @ VM10:1254
+(anonymous) @ VM10:1254
+W @ VM10:1254
+t.send @ VM10:1256
+(anonymous) @ VM10:1256
+a @ VM10:1254
+(anonymous) @ VM10:1254
+c @ VM10:1254
+Promise.then
+d @ VM10:1254
+(anonymous) @ VM10:1254
+W @ VM10:1254
+(anonymous) @ VM10:1256
+(anonymous) @ VM10:1256
+a @ VM10:1254
+(anonymous) @ VM10:1254
+(anonymous) @ VM10:1254
+W @ VM10:1254
+t.flush @ VM10:1256
+(anonymous) @ VM10:1256
+setTimeout
+t.schedule @ VM10:1256
+(anonymous) @ VM10:1256
+t.execute @ VM10:1256
+(anonymous) @ VM10:1256
+(anonymous) @ VM10:1256
+a @ VM10:1254
+(anonymous) @ VM10:1254
+c @ VM10:1254
+Promise.then
+d @ VM10:1254
+c @ VM10:1254
+Promise.then
+d @ VM10:1254
+c @ VM10:1254
+Promise.then
+d @ VM10:1254
+c @ VM10:1254
+Promise.then
+d @ VM10:1254
+c @ VM10:1254
+Promise.then
+d @ VM10:1254
+c @ VM10:1254
+Promise.then
+d @ VM10:1254
+c @ VM10:1254
+Promise.then
+d @ VM10:1254
+(anonymous) @ VM10:1254
+W @ VM10:1254
+t.apply @ VM10:1256
+(anonymous) @ VM10:1256
+setTimeout
+t.scheduleApply @ VM10:1256
+(anonymous) @ VM10:1256
+t.push @ VM10:1256
+(anonymous) @ VM10:1256
+a @ VM10:1254
+(anonymous) @ VM10:1254
+(anonymous) @ VM10:1254
+W @ VM10:1254
+t.process @ VM10:1256
+(anonymous) @ VM10:1266
+a @ VM10:1254
+(anonymous) @ VM10:1254
+(anonymous) @ VM10:1254
+W @ VM10:1254
+e.process @ VM10:1266
+(anonymous) @ VM10:1256
+a @ VM10:1254
+(anonymous) @ VM10:1254
+(anonymous) @ VM10:1254
+W @ VM10:1254
+t.dispatch @ VM10:1256
+t.track @ VM10:1256
+(anonymous) @ VM10:1266
+t.next @ VM10:1266
+e._next @ VM10:1266
+e.next @ VM10:1266
+(anonymous) @ VM10:1266
+a._next @ VM10:1266
+e.next @ VM10:1266
+(anonymous) @ VM10:1266
+a._next @ VM10:1266
+e.next @ VM10:1266
+(anonymous) @ VM10:1266
+a._next @ VM10:1266
+e.next @ VM10:1266
+c @ VM10:1266
+a @ VM10:1266
+e._execute @ VM10:1266
+e.execute @ VM10:1266
+e.flush @ VM10:1266
+setInterval
+setInterval @ VM10:1266
+e.requestAsyncId @ VM10:1266
+e.schedule @ VM10:1266
+t.schedule @ VM10:1266
+(anonymous) @ VM10:1266
+a._next @ VM10:1266
+e.next @ VM10:1266
+(anonymous) @ VM10:1266
+Hn @ VM10:1266
+e.next @ VM10:1266
+next @ VM10:1266
+t.next @ VM10:1266
+e._next @ VM10:1266
+e.next @ VM10:1266
+(anonymous) @ VM10:1266
+a._next @ VM10:1266
+e.next @ VM10:1266
+a @ VM10:1266
+script.file-downloads.hash.outbound-links.pageview-props.revenue.tagged-events.js:1 Refused to connect to 'https://plausible.io/api/event' because it violates the following Content Security Policy directive: "connect-src 'self' https://*.manus.space https://*.openrouter.ai https://*.deepseek.com https://*.grok.ai https://*.supabase.co https://*.huggingface.co https://huggingface.co https://*.hf.space https://sr-client-cfg.amplitude.com".
+
+u @ script.file-downloads.hash.outbound-links.pageview-props.revenue.tagged-events.js:1
+f @ script.file-downloads.hash.outbound-links.pageview-props.revenue.tagged-events.js:1
+m @ script.file-downloads.hash.outbound-links.pageview-props.revenue.tagged-events.js:1
+VM10:1258 Refused to connect to 'https://api2.amplitude.com/2/httpapi' because it violates the following Content Security Policy directive: "connect-src 'self' https://*.manus.space https://*.openrouter.ai https://*.deepseek.com https://*.grok.ai https://*.supabase.co https://*.huggingface.co https://huggingface.co https://*.hf.space https://sr-client-cfg.amplitude.com".
+
+(anonymous) @ VM10:1258
+(anonymous) @ VM10:1258
+a @ VM10:1254
+(anonymous) @ VM10:1254
+(anonymous) @ VM10:1254
+W @ VM10:1254
+e.send @ VM10:1258
+(anonymous) @ VM10:1256
+a @ VM10:1254
+(anonymous) @ VM10:1254
+(anonymous) @ VM10:1254
+W @ VM10:1254
+t.send @ VM10:1256
+(anonymous) @ VM10:1256
+a @ VM10:1254
+(anonymous) @ VM10:1254
+c @ VM10:1254
+Promise.then
+d @ VM10:1254
+(anonymous) @ VM10:1254
+W @ VM10:1254
+(anonymous) @ VM10:1256
+(anonymous) @ VM10:1256
+a @ VM10:1254
+(anonymous) @ VM10:1254
+(anonymous) @ VM10:1254
+W @ VM10:1254
+t.flush @ VM10:1256
+(anonymous) @ VM10:1256
+setTimeout
+t.schedule @ VM10:1256
+(anonymous) @ VM10:1256
+t.execute @ VM10:1256
+(anonymous) @ VM10:1256
+(anonymous) @ VM10:1256
+a @ VM10:1254
+(anonymous) @ VM10:1254
+c @ VM10:1254
+Promise.then
+d @ VM10:1254
+c @ VM10:1254
+Promise.then
+d @ VM10:1254
+c @ VM10:1254
+Promise.then
+d @ VM10:1254
+c @ VM10:1254
+Promise.then
+d @ VM10:1254
+c @ VM10:1254
+Promise.then
+d @ VM10:1254
+c @ VM10:1254
+Promise.then
+d @ VM10:1254
+c @ VM10:1254
+Promise.then
+d @ VM10:1254
+(anonymous) @ VM10:1254
+W @ VM10:1254
+t.apply @ VM10:1256
+(anonymous) @ VM10:1256
+setTimeout
+t.scheduleApply @ VM10:1256
+(anonymous) @ VM10:1256
+t.push @ VM10:1256
+(anonymous) @ VM10:1256
+a @ VM10:1254
+(anonymous) @ VM10:1254
+(anonymous) @ VM10:1254
+W @ VM10:1254
+t.process @ VM10:1256
+(anonymous) @ VM10:1266
+a @ VM10:1254
+(anonymous) @ VM10:1254
+(anonymous) @ VM10:1254
+W @ VM10:1254
+e.process @ VM10:1266
+(anonymous) @ VM10:1256
+a @ VM10:1254
+(anonymous) @ VM10:1254
+(anonymous) @ VM10:1254
+W @ VM10:1254
+t.dispatch @ VM10:1256
+t.track @ VM10:1256
+(anonymous) @ VM10:1266
+t.next @ VM10:1266
+e._next @ VM10:1266
+e.next @ VM10:1266
+(anonymous) @ VM10:1266
+a._next @ VM10:1266
+e.next @ VM10:1266
+(anonymous) @ VM10:1266
+a._next @ VM10:1266
+e.next @ VM10:1266
+(anonymous) @ VM10:1266
+a._next @ VM10:1266
+e.next @ VM10:1266
+c @ VM10:1266
+a @ VM10:1266
+e._execute @ VM10:1266
+e.execute @ VM10:1266
+e.flush @ VM10:1266
+setInterval
+setInterval @ VM10:1266
+e.requestAsyncId @ VM10:1266
+e.schedule @ VM10:1266
+t.schedule @ VM10:1266
+(anonymous) @ VM10:1266
+a._next @ VM10:1266
+e.next @ VM10:1266
+(anonymous) @ VM10:1266
+Hn @ VM10:1266
+e.next @ VM10:1266
+next @ VM10:1266
+t.next @ VM10:1266
+e._next @ VM10:1266
+e.next @ VM10:1266
+(anonymous) @ VM10:1266
+a._next @ VM10:1266
+e.next @ VM10:1266
+a @ VM10:1266
+VM10:1258 Refused to connect to 'https://api2.amplitude.com/2/httpapi' because it violates the following Content Security Policy directive: "connect-src 'self' https://*.manus.space https://*.openrouter.ai https://*.deepseek.com https://*.grok.ai https://*.supabase.co https://*.huggingface.co https://huggingface.co https://*.hf.space https://sr-client-cfg.amplitude.com".
+
+(anonymous) @ VM10:1258
+(anonymous) @ VM10:1258
+a @ VM10:1254
+(anonymous) @ VM10:1254
+(anonymous) @ VM10:1254
+W @ VM10:1254
+e.send @ VM10:1258
+(anonymous) @ VM10:1256
+a @ VM10:1254
+(anonymous) @ VM10:1254
+(anonymous) @ VM10:1254
+W @ VM10:1254
+t.send @ VM10:1256
+(anonymous) @ VM10:1256
+a @ VM10:1254
+(anonymous) @ VM10:1254
+c @ VM10:1254
+Promise.then
+d @ VM10:1254
+(anonymous) @ VM10:1254
+W @ VM10:1254
+(anonymous) @ VM10:1256
+(anonymous) @ VM10:1256
+a @ VM10:1254
+(anonymous) @ VM10:1254
+(anonymous) @ VM10:1254
+W @ VM10:1254
+t.flush @ VM10:1256
+(anonymous) @ VM10:1256
+setTimeout
+t.schedule @ VM10:1256
+(anonymous) @ VM10:1256
+t.execute @ VM10:1256
+(anonymous) @ VM10:1256
+(anonymous) @ VM10:1256
+a @ VM10:1254
+(anonymous) @ VM10:1254
+c @ VM10:1254
+Promise.then
+d @ VM10:1254
+c @ VM10:1254
+Promise.then
+d @ VM10:1254
+c @ VM10:1254
+Promise.then
+d @ VM10:1254
+c @ VM10:1254
+Promise.then
+d @ VM10:1254
+c @ VM10:1254
+Promise.then
+d @ VM10:1254
+c @ VM10:1254
+Promise.then
+d @ VM10:1254
+c @ VM10:1254
+Promise.then
+d @ VM10:1254
+(anonymous) @ VM10:1254
+W @ VM10:1254
+t.apply @ VM10:1256
+(anonymous) @ VM10:1256
+setTimeout
+t.scheduleApply @ VM10:1256
+(anonymous) @ VM10:1256
+t.push @ VM10:1256
+(anonymous) @ VM10:1256
+a @ VM10:1254
+(anonymous) @ VM10:1254
+(anonymous) @ VM10:1254
+W @ VM10:1254
+t.process @ VM10:1256
+(anonymous) @ VM10:1266
+a @ VM10:1254
+(anonymous) @ VM10:1254
+(anonymous) @ VM10:1254
+W @ VM10:1254
+e.process @ VM10:1266
+(anonymous) @ VM10:1256
+a @ VM10:1254
+(anonymous) @ VM10:1254
+(anonymous) @ VM10:1254
+W @ VM10:1254
+t.dispatch @ VM10:1256
+t.track @ VM10:1256
+(anonymous) @ VM10:1266
+t.next @ VM10:1266
+e._next @ VM10:1266
+e.next @ VM10:1266
+(anonymous) @ VM10:1266
+a._next @ VM10:1266
+e.next @ VM10:1266
+(anonymous) @ VM10:1266
+a._next @ VM10:1266
+e.next @ VM10:1266
+(anonymous) @ VM10:1266
+a._next @ VM10:1266
+e.next @ VM10:1266
+c @ VM10:1266
+a @ VM10:1266
+e._execute @ VM10:1266
+e.execute @ VM10:1266
+e.flush @ VM10:1266
+setInterval
+setInterval @ VM10:1266
+e.requestAsyncId @ VM10:1266
+e.schedule @ VM10:1266
+t.schedule @ VM10:1266
+(anonymous) @ VM10:1266
+a._next @ VM10:1266
+e.next @ VM10:1266
+(anonymous) @ VM10:1266
+Hn @ VM10:1266
+e.next @ VM10:1266
+next @ VM10:1266
+t.next @ VM10:1266
+e._next @ VM10:1266
+e.next @ VM10:1266
+(anonymous) @ VM10:1266
+a._next @ VM10:1266
+e.next @ VM10:1266
+a @ VM10:1266
+VM10:1258 Refused to connect to 'https://api2.amplitude.com/2/httpapi' because it violates the following Content Security Policy directive: "connect-src 'self' https://*.manus.space https://*.openrouter.ai https://*.deepseek.com https://*.grok.ai https://*.supabase.co https://*.huggingface.co https://huggingface.co https://*.hf.space https://sr-client-cfg.amplitude.com".
+
+(anonymous) @ VM10:1258
+(anonymous) @ VM10:1258
+a @ VM10:1254
+(anonymous) @ VM10:1254
+(anonymous) @ VM10:1254
+W @ VM10:1254
+e.send @ VM10:1258
+(anonymous) @ VM10:1256
+a @ VM10:1254
+(anonymous) @ VM10:1254
+(anonymous) @ VM10:1254
+W @ VM10:1254
+t.send @ VM10:1256
+(anonymous) @ VM10:1256
+a @ VM10:1254
+(anonymous) @ VM10:1254
+c @ VM10:1254
+Promise.then
+d @ VM10:1254
+(anonymous) @ VM10:1254
+W @ VM10:1254
+(anonymous) @ VM10:1256
+(anonymous) @ VM10:1256
+a @ VM10:1254
+(anonymous) @ VM10:1254
+(anonymous) @ VM10:1254
+W @ VM10:1254
+t.flush @ VM10:1256
+(anonymous) @ VM10:1256
+setTimeout
+t.schedule @ VM10:1256
+(anonymous) @ VM10:1256
+t.execute @ VM10:1256
+(anonymous) @ VM10:1256
+(anonymous) @ VM10:1256
+a @ VM10:1254
+(anonymous) @ VM10:1254
+c @ VM10:1254
+Promise.then
+d @ VM10:1254
+c @ VM10:1254
+Promise.then
+d @ VM10:1254
+c @ VM10:1254
+Promise.then
+d @ VM10:1254
+c @ VM10:1254
+Promise.then
+d @ VM10:1254
+c @ VM10:1254
+Promise.then
+d @ VM10:1254
+c @ VM10:1254
+Promise.then
+d @ VM10:1254
+c @ VM10:1254
+Promise.then
+d @ VM10:1254
+(anonymous) @ VM10:1254
+W @ VM10:1254
+t.apply @ VM10:1256
+(anonymous) @ VM10:1256
+setTimeout
+t.scheduleApply @ VM10:1256
+(anonymous) @ VM10:1256
+t.push @ VM10:1256
+(anonymous) @ VM10:1256
+a @ VM10:1254
+(anonymous) @ VM10:1254
+(anonymous) @ VM10:1254
+W @ VM10:1254
+t.process @ VM10:1256
+(anonymous) @ VM10:1266
+a @ VM10:1254
+(anonymous) @ VM10:1254
+(anonymous) @ VM10:1254
+W @ VM10:1254
+e.process @ VM10:1266
+(anonymous) @ VM10:1256
+a @ VM10:1254
+(anonymous) @ VM10:1254
+(anonymous) @ VM10:1254
+W @ VM10:1254
+t.dispatch @ VM10:1256
+t.track @ VM10:1256
+(anonymous) @ VM10:1266
+t.next @ VM10:1266
+e._next @ VM10:1266
+e.next @ VM10:1266
+(anonymous) @ VM10:1266
+a._next @ VM10:1266
+e.next @ VM10:1266
+(anonymous) @ VM10:1266
+a._next @ VM10:1266
+e.next @ VM10:1266
+(anonymous) @ VM10:1266
+Hn @ VM10:1266
+e.next @ VM10:1266
+next @ VM10:1266
+t.next @ VM10:1266
+e._next @ VM10:1266
+e.next @ VM10:1266
+(anonymous) @ VM10:1266
+a._next @ VM10:1266
+e.next @ VM10:1266
+a @ VM10:1266
+VM10:1258 Refused to connect to 'https://api2.amplitude.com/2/httpapi' because it violates the following Content Security Policy directive: "connect-src 'self' https://*.manus.space https://*.openrouter.ai https://*.deepseek.com https://*.grok.ai https://*.supabase.co https://*.huggingface.co https://huggingface.co https://*.hf.space https://sr-client-cfg.amplitude.com".
+
+(anonymous) @ VM10:1258
+(anonymous) @ VM10:1258
+a @ VM10:1254
+(anonymous) @ VM10:1254
+(anonymous) @ VM10:1254
+W @ VM10:1254
+e.send @ VM10:1258
+(anonymous) @ VM10:1256
+a @ VM10:1254
+(anonymous) @ VM10:1254
+(anonymous) @ VM10:1254
+W @ VM10:1254
+t.send @ VM10:1256
+(anonymous) @ VM10:1256
+a @ VM10:1254
+(anonymous) @ VM10:1254
+c @ VM10:1254
+Promise.then
+d @ VM10:1254
+(anonymous) @ VM10:1254
+W @ VM10:1254
+(anonymous) @ VM10:1256
+(anonymous) @ VM10:1256
+a @ VM10:1254
+(anonymous) @ VM10:1254
+(anonymous) @ VM10:1254
+W @ VM10:1254
+t.flush @ VM10:1256
+(anonymous) @ VM10:1256
+setTimeout
+t.schedule @ VM10:1256
+(anonymous) @ VM10:1256
+t.execute @ VM10:1256
+(anonymous) @ VM10:1256
+(anonymous) @ VM10:1256
+a @ VM10:1254
+(anonymous) @ VM10:1254
+c @ VM10:1254
+Promise.then
+d @ VM10:1254
+c @ VM10:1254
+Promise.then
+d @ VM10:1254
+c @ VM10:1254
+Promise.then
+d @ VM10:1254
+c @ VM10:1254
+Promise.then
+d @ VM10:1254
+c @ VM10:1254
+Promise.then
+d @ VM10:1254
+c @ VM10:1254
+Promise.then
+d @ VM10:1254
+c @ VM10:1254
+Promise.then
+d @ VM10:1254
+(anonymous) @ VM10:1254
+W @ VM10:1254
+t.apply @ VM10:1256
+(anonymous) @ VM10:1256
+setTimeout
+t.scheduleApply @ VM10:1256
+(anonymous) @ VM10:1256
+t.push @ VM10:1256
+(anonymous) @ VM10:1256
+a @ VM10:1254
+(anonymous) @ VM10:1254
+(anonymous) @ VM10:1254
+W @ VM10:1254
+t.process @ VM10:1256
+(anonymous) @ VM10:1266
+a @ VM10:1254
+(anonymous) @ VM10:1254
+(anonymous) @ VM10:1254
+W @ VM10:1254
+e.process @ VM10:1266
+(anonymous) @ VM10:1256
+a @ VM10:1254
+(anonymous) @ VM10:1254
+(anonymous) @ VM10:1254
+W @ VM10:1254
+t.dispatch @ VM10:1256
+t.track @ VM10:1256
+(anonymous) @ VM10:1266
+t.next @ VM10:1266
+e._next @ VM10:1266
+e.next @ VM10:1266
+(anonymous) @ VM10:1266
+a._next @ VM10:1266
+e.next @ VM10:1266
+(anonymous) @ VM10:1266
+a._next @ VM10:1266
+e.next @ VM10:1266
+(anonymous) @ VM10:1266
+a._next @ VM10:1266
+e.next @ VM10:1266
+c @ VM10:1266
+a @ VM10:1266
+e._execute @ VM10:1266
+e.execute @ VM10:1266
+e.flush @ VM10:1266
+setInterval
+setInterval @ VM10:1266
+e.requestAsyncId @ VM10:1266
+e.schedule @ VM10:1266
+t.schedule @ VM10:1266
+(anonymous) @ VM10:1266
+a._next @ VM10:1266
+e.next @ VM10:1266
+(anonymous) @ VM10:1266
+Hn @ VM10:1266
+e.next @ VM10:1266
+next @ VM10:1266
+t.next @ VM10:1266
+e._next @ VM10:1266
+e.next @ VM10:1266
+(anonymous) @ VM10:1266
+a._next @ VM10:1266
+e.next @ VM10:1266
+a @ VM10:1266
+VM10:1258 Refused to connect to 'https://api2.amplitude.com/2/httpapi' because it violates the following Content Security Policy directive: "connect-src 'self' https://*.manus.space https://*.openrouter.ai https://*.deepseek.com https://*.grok.ai https://*.supabase.co https://*.huggingface.co https://huggingface.co https://*.hf.space https://sr-client-cfg.amplitude.com".
+
+(anonymous) @ VM10:1258
+(anonymous) @ VM10:1258
+a @ VM10:1254
+(anonymous) @ VM10:1254
+(anonymous) @ VM10:1254
+W @ VM10:1254
+e.send @ VM10:1258
+(anonymous) @ VM10:1256
+a @ VM10:1254
+(anonymous) @ VM10:1254
+(anonymous) @ VM10:1254
+W @ VM10:1254
+t.send @ VM10:1256
+(anonymous) @ VM10:1256
+a @ VM10:1254
+(anonymous) @ VM10:1254
+c @ VM10:1254
+Promise.then
+d @ VM10:1254
+(anonymous) @ VM10:1254
+W @ VM10:1254
+(anonymous) @ VM10:1256
+(anonymous) @ VM10:1256
+a @ VM10:1254
+(anonymous) @ VM10:1254
+(anonymous) @ VM10:1254
+W @ VM10:1254
+t.flush @ VM10:1256
+(anonymous) @ VM10:1256
+setTimeout
+t.schedule @ VM10:1256
+(anonymous) @ VM10:1256
+t.execute @ VM10:1256
+(anonymous) @ VM10:1256
+(anonymous) @ VM10:1256
+a @ VM10:1254
+(anonymous) @ VM10:1254
+c @ VM10:1254
+Promise.then
+d @ VM10:1254
+c @ VM10:1254
+Promise.then
+d @ VM10:1254
+c @ VM10:1254
+Promise.then
+d @ VM10:1254
+c @ VM10:1254
+Promise.then
+d @ VM10:1254
+c @ VM10:1254
+Promise.then
+d @ VM10:1254
+c @ VM10:1254
+Promise.then
+d @ VM10:1254
+c @ VM10:1254
+Promise.then
+d @ VM10:1254
+(anonymous) @ VM10:1254
+W @ VM10:1254
+t.apply @ VM10:1256
+(anonymous) @ VM10:1256
+setTimeout
+t.scheduleApply @ VM10:1256
+(anonymous) @ VM10:1256
+t.push @ VM10:1256
+(anonymous) @ VM10:1256
+a @ VM10:1254
+(anonymous) @ VM10:1254
+(anonymous) @ VM10:1254
+W @ VM10:1254
+t.process @ VM10:1256
+(anonymous) @ VM10:1266
+a @ VM10:1254
+(anonymous) @ VM10:1254
+(anonymous) @ VM10:1254
+W @ VM10:1254
+e.process @ VM10:1266
+(anonymous) @ VM10:1256
+a @ VM10:1254
+(anonymous) @ VM10:1254
+(anonymous) @ VM10:1254
+W @ VM10:1254
+t.dispatch @ VM10:1256
+t.track @ VM10:1256
+(anonymous) @ VM10:1266
+t.next @ VM10:1266
+e._next @ VM10:1266
+e.next @ VM10:1266
+(anonymous) @ VM10:1266
+a._next @ VM10:1266
+e.next @ VM10:1266
+(anonymous) @ VM10:1266
+a._next @ VM10:1266
+e.next @ VM10:1266
+(anonymous) @ VM10:1266
+Hn @ VM10:1266
+e.next @ VM10:1266
+next @ VM10:1266
+t.next @ VM10:1266
+e._next @ VM10:1266
+e.next @ VM10:1266
+(anonymous) @ VM10:1266
+a._next @ VM10:1266
+e.next @ VM10:1266
+a @ VM10:1266
+VM10:1258 Refused to connect to 'https://api2.amplitude.com/2/httpapi' because it violates the following Content Security Policy directive: "connect-src 'self' https://*.manus.space https://*.openrouter.ai https://*.deepseek.com https://*.grok.ai https://*.supabase.co https://*.huggingface.co https://huggingface.co https://*.hf.space https://sr-client-cfg.amplitude.com".
+
+(anonymous) @ VM10:1258
+(anonymous) @ VM10:1258
+a @ VM10:1254
+(anonymous) @ VM10:1254
+(anonymous) @ VM10:1254
+W @ VM10:1254
+e.send @ VM10:1258
+(anonymous) @ VM10:1256
+a @ VM10:1254
+(anonymous) @ VM10:1254
+(anonymous) @ VM10:1254
+W @ VM10:1254
+t.send @ VM10:1256
+(anonymous) @ VM10:1256
+a @ VM10:1254
+(anonymous) @ VM10:1254
+c @ VM10:1254
+Promise.then
+d @ VM10:1254
+(anonymous) @ VM10:1254
+W @ VM10:1254
+(anonymous) @ VM10:1256
+(anonymous) @ VM10:1256
+a @ VM10:1254
+(anonymous) @ VM10:1254
+(anonymous) @ VM10:1254
+W @ VM10:1254
+t.flush @ VM10:1256
+(anonymous) @ VM10:1256
+setTimeout
+t.schedule @ VM10:1256
+(anonymous) @ VM10:1256
+t.execute @ VM10:1256
+(anonymous) @ VM10:1256
+(anonymous) @ VM10:1256
+a @ VM10:1254
+(anonymous) @ VM10:1254
+c @ VM10:1254
+Promise.then
+d @ VM10:1254
+c @ VM10:1254
+Promise.then
+d @ VM10:1254
+c @ VM10:1254
+Promise.then
+d @ VM10:1254
+c @ VM10:1254
+Promise.then
+d @ VM10:1254
+c @ VM10:1254
+Promise.then
+d @ VM10:1254
+c @ VM10:1254
+Promise.then
+d @ VM10:1254
+c @ VM10:1254
+Promise.then
+d @ VM10:1254
+(anonymous) @ VM10:1254
+W @ VM10:1254
+t.apply @ VM10:1256
+(anonymous) @ VM10:1256
+setTimeout
+t.scheduleApply @ VM10:1256
+(anonymous) @ VM10:1256
+t.push @ VM10:1256
+(anonymous) @ VM10:1256
+a @ VM10:1254
+(anonymous) @ VM10:1254
+(anonymous) @ VM10:1254
+W @ VM10:1254
+t.process @ VM10:1256
+(anonymous) @ VM10:1266
+a @ VM10:1254
+(anonymous) @ VM10:1254
+(anonymous) @ VM10:1254
+W @ VM10:1254
+e.process @ VM10:1266
+(anonymous) @ VM10:1256
+a @ VM10:1254
+(anonymous) @ VM10:1254
+(anonymous) @ VM10:1254
+W @ VM10:1254
+t.dispatch @ VM10:1256
+t.track @ VM10:1256
+(anonymous) @ VM10:1266
+t.next @ VM10:1266
+e._next @ VM10:1266
+e.next @ VM10:1266
+(anonymous) @ VM10:1266
+a._next @ VM10:1266
+e.next @ VM10:1266
+(anonymous) @ VM10:1266
+a._next @ VM10:1266
+e.next @ VM10:1266
+(anonymous) @ VM10:1266
+a._next @ VM10:1266
+e.next @ VM10:1266
+c @ VM10:1266
+a @ VM10:1266
+e._execute @ VM10:1266
+e.execute @ VM10:1266
+e.flush @ VM10:1266
+setInterval
+setInterval @ VM10:1266
+e.requestAsyncId @ VM10:1266
+e.schedule @ VM10:1266
+t.schedule @ VM10:1266
+(anonymous) @ VM10:1266
+a._next @ VM10:1266
+e.next @ VM10:1266
+(anonymous) @ VM10:1266
+Hn @ VM10:1266
+e.next @ VM10:1266
+next @ VM10:1266
+t.next @ VM10:1266
+e._next @ VM10:1266
+e.next @ VM10:1266
+(anonymous) @ VM10:1266
+a._next @ VM10:1266
+e.next @ VM10:1266
+a @ VM10:1266
+VM10:1258 Refused to connect to 'https://api2.amplitude.com/2/httpapi' because it violates the following Content Security Policy directive: "connect-src 'self' https://*.manus.space https://*.openrouter.ai https://*.deepseek.com https://*.grok.ai https://*.supabase.co https://*.huggingface.co https://huggingface.co https://*.hf.space https://sr-client-cfg.amplitude.com".
+
+(anonymous) @ VM10:1258
+(anonymous) @ VM10:1258
+a @ VM10:1254
+(anonymous) @ VM10:1254
+(anonymous) @ VM10:1254
+W @ VM10:1254
+e.send @ VM10:1258
+(anonymous) @ VM10:1256
+a @ VM10:1254
+(anonymous) @ VM10:1254
+(anonymous) @ VM10:1254
+W @ VM10:1254
+t.send @ VM10:1256
+(anonymous) @ VM10:1256
+a @ VM10:1254
+(anonymous) @ VM10:1254
+c @ VM10:1254
+Promise.then
+d @ VM10:1254
+(anonymous) @ VM10:1254
+W @ VM10:1254
+(anonymous) @ VM10:1256
+(anonymous) @ VM10:1256
+a @ VM10:1254
+(anonymous) @ VM10:1254
+(anonymous) @ VM10:1254
+W @ VM10:1254
+t.flush @ VM10:1256
+(anonymous) @ VM10:1256
+setTimeout
+t.schedule @ VM10:1256
+(anonymous) @ VM10:1256
+t.execute @ VM10:1256
+(anonymous) @ VM10:1256
+(anonymous) @ VM10:1256
+a @ VM10:1254
+(anonymous) @ VM10:1254
+c @ VM10:1254
+Promise.then
+d @ VM10:1254
+c @ VM10:1254
+Promise.then
+d @ VM10:1254
+c @ VM10:1254
+Promise.then
+d @ VM10:1254
+c @ VM10:1254
+Promise.then
+d @ VM10:1254
+c @ VM10:1254
+Promise.then
+d @ VM10:1254
+c @ VM10:1254
+Promise.then
+d @ VM10:1254
+c @ VM10:1254
+Promise.then
+d @ VM10:1254
+(anonymous) @ VM10:1254
+W @ VM10:1254
+t.apply @ VM10:1256
+(anonymous) @ VM10:1256
+setTimeout
+t.scheduleApply @ VM10:1256
+(anonymous) @ VM10:1256
+t.push @ VM10:1256
+(anonymous) @ VM10:1256
+a @ VM10:1254
+(anonymous) @ VM10:1254
+(anonymous) @ VM10:1254
+W @ VM10:1254
+t.process @ VM10:1256
+(anonymous) @ VM10:1266
+a @ VM10:1254
+(anonymous) @ VM10:1254
+(anonymous) @ VM10:1254
+W @ VM10:1254
+e.process @ VM10:1266
+(anonymous) @ VM10:1256
+a @ VM10:1254
+(anonymous) @ VM10:1254
+(anonymous) @ VM10:1254
+W @ VM10:1254
+t.dispatch @ VM10:1256
+t.track @ VM10:1256
+(anonymous) @ VM10:1266
+t.next @ VM10:1266
+e._next @ VM10:1266
+e.next @ VM10:1266
+(anonymous) @ VM10:1266
+a._next @ VM10:1266
+e.next @ VM10:1266
+(anonymous) @ VM10:1266
+a._next @ VM10:1266
+e.next @ VM10:1266
+(anonymous) @ VM10:1266
+Hn @ VM10:1266
+e.next @ VM10:1266
+next @ VM10:1266
+t.next @ VM10:1266
+e._next @ VM10:1266
+e.next @ VM10:1266
+(anonymous) @ VM10:1266
+a._next @ VM10:1266
+e.next @ VM10:1266
+a @ VM10:1266
+script.file-downloads.hash.outbound-links.pageview-props.revenue.tagged-events.js:1 Refused to connect to 'https://plausible.io/api/event' because it violates the following Content Security Policy directive: "connect-src 'self' https://*.manus.space https://*.openrouter.ai https://*.deepseek.com https://*.grok.ai https://*.supabase.co https://*.huggingface.co https://huggingface.co https://*.hf.space https://sr-client-cfg.amplitude.com".
+
+u @ script.file-downloads.hash.outbound-links.pageview-props.revenue.tagged-events.js:1
+f @ script.file-downloads.hash.outbound-links.pageview-props.revenue.tagged-events.js:1
+m @ script.file-downloads.hash.outbound-links.pageview-props.revenue.tagged-events.js:1
+VM10:378 Fetch API cannot load https://api.manus.im/space.v1.SpaceService/HasSpaceEditPermission. Refused to connect because it violates the document's Content Security Policy.
+next @ VM10:378
+index-tdDWSrF-.js:50 LLMManager: Application des paramètres - Provider: deepseek, Modèle: deepseek-chat, Clé API: (définie)
+index-tdDWSrF-.js:33 AdvancedNarrativeAI: setApiProvider appelé - Provider: deepseek, Modèle: deepseek-chat, Clé API: (définie)
+script.file-downloads.hash.outbound-links.pageview-props.revenue.tagged-events.js:1 Fetch API cannot load https://plausible.io/api/event. Refused to connect because it violates the document's Content Security Policy.
+u @ script.file-downloads.hash.outbound-links.pageview-props.revenue.tagged-events.js:1
+script.file-downloads.hash.outbound-links.pageview-props.revenue.tagged-events.js:1 Fetch API cannot load https://plausible.io/api/event. Refused to connect because it violates the document's Content Security Policy.
+u @ script.file-downloads.hash.outbound-links.pageview-props.revenue.tagged-events.js:1
+index-tdDWSrF-.js:50 HomePage: Configuration LLM chargée Object
+index-tdDWSrF-.js:10 Base de données locale initialisée avec succès
+script.file-downloads.hash.outbound-links.pageview-props.revenue.tagged-events.js:1 Fetch API cannot load https://plausible.io/api/event. Refused to connect because it violates the document's Content Security Policy.
+u @ script.file-downloads.hash.outbound-links.pageview-props.revenue.tagged-events.js:1
+index-tdDWSrF-.js:106 Démarrage de l'aventure: dragon-quest
+script.file-downloads.hash.outbound-links.pageview-props.revenue.tagged-events.js:1 Fetch API cannot load https://plausible.io/api/event. Refused to connect because it violates the document's Content Security Policy.
+u @ script.file-downloads.hash.outbound-links.pageview-props.revenue.tagged-events.js:1
+index-tdDWSrF-.js:50 LLMManager: Application des paramètres - Provider: deepseek, Modèle: deepseek-chat, Clé API: (définie)
+index-tdDWSrF-.js:33 AdvancedNarrativeAI: setApiProvider appelé - Provider: deepseek, Modèle: deepseek-chat, Clé API: (définie)
+index-tdDWSrF-.js:50 LLMManager: getNarrativeAI appelé, paramètres appliqués.
+index-tdDWSrF-.js:37 AdvancedNarrativeAI: generateResponse appelé - Provider: deepseek, Clé API: (définie)
+index-tdDWSrF-.js:37 AdvancedNarrativeAI: Utilisation du fournisseur deepseek avec le modèle deepseek-chat et la clé API: (définie)
+index-tdDWSrF-.js:37 Utilisation de DeepSeek pour la génération de texte avec la clé configurée
+script.file-downloads.hash.outbound-links.pageview-props.revenue.tagged-events.js:1 Fetch API cannot load https://plausible.io/api/event. Refused to connect because it violates the document's Content Security Policy.
+u @ script.file-downloads.hash.outbound-links.pageview-props.revenue.tagged-events.js:1
+f @ script.file-downloads.hash.outbound-links.pageview-props.revenue.tagged-events.js:1
+m @ script.file-downloads.hash.outbound-links.pageview-props.revenue.tagged-events.js:1
+index-tdDWSrF-.js:37 AdvancedNarrativeAI: Réponse générée avec succès via deepseek: ```json
+{
+  "name": "Rob",
+  "race": "Tieffelin",
+  "gender": "Non-binaire",
+  "age": 32,
+  "class":...
+index-tdDWSrF-.js:72 Raw response from LLM: ```json
+{
+  "name": "Rob",
+  "race": "Tieffelin",
+  "gender": "Non-binaire",
+  "age": 32,
+  "class": "Sorcier",
+  "alignment": "Chaotique Neutre",
+  "traits": ["curieux", "impulsif", "pragmatique"],
+  "skills": ["arcanes", "tromperie", "persuasion", "investigation", "perception"],
+  "appearance": "Rob est un tieffelin aux cornes courbées comme celles d'un bélier, d'un noir lustré. Sa peau rouge foncé est parsemée de marques tribales argentées qui brillent faiblement dans l'obscurité. 👹 Ses yeux dorés scrutent avec une intensité presque dérangeante, et sa queue fine se balance toujours avec impatience. Il porte une cape en cuir usagé et des bottes souples, parfaites pour se faufiler dans l'ombre. 🌑",
+  "history": "Né dans les bas-fonds d'une cité humaine, Rob a grandi en apprenant à exploiter sa nature tieffeline pour survivre. Abandonné par ses parents, il a été recueilli par un vieux sorcier excentrique qui lui a enseigné les arcanes en échange de menus larcins. 🔮 Après la mort de son mentor, Rob a erré de ville en ville, mélangeant magie et subterfuge pour subsister. Son passé trouble lui a valu autant d'ennemis que d'alliances éphémères. 🎭",
+  "aspirations": "Rob cherche à percer les secrets des plans inférieurs, espérant y trouver le pouvoir nécessaire pour se venger de ceux qui l'ont trahi. Son objectif secret ? Devenir assez puissant pour ne plus jamais dépendre de qui que ce soit. 💥"
+}
+``` 
+
+✨ *Ce tieffelin mystérieux cache bien plus qu'il n'y paraît... Sa magie chaotique et son esprit imprévisible en font un allié risqué, mais potentiellement précieux.* ✨
+index-tdDWSrF-.js:52 Génération d'image avec huggingface: Portrait de Rob, Humain, masculin, 25 ans, guerrier, apparence standard, portrait, detailed face, fantasy character art, high quality, detailed, 4k, professional digital art
+index-tdDWSrF-.js:52 Connexion à l'API Hugging Face FLUX.1-schnell...
+index-tdDWSrF-.js:52 Paramètres: width=1024, height=1024, steps=4
+index-tdDWSrF-.js:52 Réponse de l'API Hugging Face: {type: 'data', time: Tue Jun 24 2025 23:26:56 GMT+0200 (heure d’été d’Europe centrale), data: Array(2), endpoint: '/infer', fn_index: 2}
+index-tdDWSrF-.js:52 Image générée avec succès: {path: '/tmp/gradio/13cb915e9b688c857b97b98e8baf7b5740e2b4d1/image.webp', url: 'https://black-forest-labs-flux-1-schnell.hf.space/…cb915e9b688c857b97b98e8baf7b5740e2b4d1/image.webp', size: null, orig_name: 'image.webp', mime_type: null, …}
+index-tdDWSrF-.js:52 URL absolue de l'image: https://black-forest-labs-FLUX.1-schnell.hf.space[object Object]
+index-tdDWSrF-.js:52 Génération d'image avec huggingface: Portrait de Rob, Tieffelin, non-binaire, 32 ans, sorcier, Rob est un tieffelin aux cornes courbées comme celles d'un bélier, d'un noir lustré. Sa peau rouge foncé est parsemée de marques tribales argentées qui brillent faiblement dans l'obscurité. 👹 Ses yeux dorés scrutent avec une intensité presque dérangeante, et sa queue fine se balance toujours avec impatience. Il porte une cape en cuir usagé et des bottes souples, parfaites pour se faufiler dans l'ombre. 🌑, portrait, detailed face, fantasy character art, high quality, detailed, 4k, professional digital art
+index-tdDWSrF-.js:52 Connexion à l'API Hugging Face FLUX.1-schnell...
+index-tdDWSrF-.js:52 Paramètres: width=1024, height=1024, steps=4
+index-tdDWSrF-.js:52 Réponse de l'API Hugging Face: {type: 'data', time: Tue Jun 24 2025 23:27:06 GMT+0200 (heure d’été d’Europe centrale), data: Array(2), endpoint: '/infer', fn_index: 2}
+index-tdDWSrF-.js:52 Image générée avec succès: {path: '/tmp/gradio/fef5f1a63c77aa5b5187b0c4a1fe077dc66da0fa/image.webp', url: 'https://black-forest-labs-flux-1-schnell.hf.space/…f5f1a63c77aa5b5187b0c4a1fe077dc66da0fa/image.webp', size: null, orig_name: 'image.webp', mime_type: null, …}
+index-tdDWSrF-.js:52 URL absolue de l'image: https://black-forest-labs-FLUX.1-schnell.hf.space[object Object]
+script.file-downloads.hash.outbound-links.pageview-props.revenue.tagged-events.js:1 Fetch API cannot load https://plausible.io/api/event. Refused to connect because it violates the document's Content Security Policy.
+u @ script.file-downloads.hash.outbound-links.pageview-props.revenue.tagged-events.js:1
+f @ script.file-downloads.hash.outbound-links.pageview-props.revenue.tagged-events.js:1
+m @ script.file-downloads.hash.outbound-links.pageview-props.revenue.tagged-events.js:1
+index-tdDWSrF-.js:50 LLMSettingsModal: Paramètres chargés {activeProvider: 'deepseek', useEmojis: true, providers: {…}}
+index-tdDWSrF-.js:37 Contexte narratif chargé depuis le localStorage
+index-tdDWSrF-.js:37 AdvancedNarrativeAI: generateResponse appelé - Provider: gemini, Clé API: (non définie)
+index-tdDWSrF-.js:37 AdvancedNarrativeAI: Aucune clé API disponible, utilisation de la réponse de secours
+generateResponse @ index-tdDWSrF-.js:37
+generateText @ index-tdDWSrF-.js:37
+q @ index-tdDWSrF-.js:104
+(anonymous) @ index-tdDWSrF-.js:106
+Pl @ vendor-qTbnscYL.js:32
+$n @ vendor-qTbnscYL.js:32
+(anonymous) @ vendor-qTbnscYL.js:32
+ie @ vendor-qTbnscYL.js:17
+vt @ vendor-qTbnscYL.js:17
+index-tdDWSrF-.js:52 Génération d'image avec huggingface: Vous: 🌟 Vous sentez que vous progressez dans votre quête, même si le chemin n'est pas toujours clair. La persévérance est votre meilleure alliée. 🔮, landscape, wide view, detailed environment, epic style, high quality, detailed, 4k, professional digital art
+index-tdDWSrF-.js:52 Connexion à l'API Hugging Face FLUX.1-schnell...
+index-tdDWSrF-.js:52 Paramètres: width=1024, height=1024, steps=4
+index-tdDWSrF-.js:52 Réponse de l'API Hugging Face: {type: 'data', time: Tue Jun 24 2025 23:28:34 GMT+0200 (heure d’été d’Europe centrale), data: Array(2), endpoint: '/infer', fn_index: 2}
+index-tdDWSrF-.js:52 Image générée avec succès: {path: '/tmp/gradio/b5fdae4929f4b847f70a914ed41a083d8b8ff090/image.webp', url: 'https://black-forest-labs-flux-1-schnell.hf.space/…fdae4929f4b847f70a914ed41a083d8b8ff090/image.webp', size: null, orig_name: 'image.webp', mime_type: null, …}
+index-tdDWSrF-.js:52 URL absolue de l'image: https://black-forest-labs-FLUX.1-schnell.hf.space[object Object]
+index-tdDWSrF-.js:37 AdvancedNarrativeAI: generateResponse appelé - Provider: gemini, Clé API: (non définie)
+index-tdDWSrF-.js:37 AdvancedNarrativeAI: Aucune clé API disponible, utilisation de la réponse de secours
+generateResponse @ index-tdDWSrF-.js:37
+U @ index-tdDWSrF-.js:104
+Nc @ vendor-qTbnscYL.js:29
+Tc @ vendor-qTbnscYL.js:29
+zc @ vendor-qTbnscYL.js:29
+da @ vendor-qTbnscYL.js:29
+pa @ vendor-qTbnscYL.js:29
+(anonymous) @ vendor-qTbnscYL.js:29
+Oo @ vendor-qTbnscYL.js:32
+wi @ vendor-qTbnscYL.js:29
+zu @ vendor-qTbnscYL.js:29
+pu @ vendor-qTbnscYL.js:29
+Yc @ vendor-qTbnscYL.js:29
+index-tdDWSrF-.js:104 GameInterface: Réponse brute de l'IA narrative: 🗺️ Vous sentez que vous progressez dans votre quête, même si le chemin n'est pas toujours clair. La persévérance est votre meilleure alliée. 🔮
+index-tdDWSrF-.js:37 AdvancedNarrativeAI: generateResponse appelé - Provider: gemini, Clé API: (non définie)
+index-tdDWSrF-.js:37 AdvancedNarrativeAI: Aucune clé API disponible, utilisation de la réponse de secours
+generateResponse @ index-tdDWSrF-.js:37
+U @ index-tdDWSrF-.js:104
+Nc @ vendor-qTbnscYL.js:29
+Tc @ vendor-qTbnscYL.js:29
+zc @ vendor-qTbnscYL.js:29
+da @ vendor-qTbnscYL.js:29
+pa @ vendor-qTbnscYL.js:29
+(anonymous) @ vendor-qTbnscYL.js:29
+Oo @ vendor-qTbnscYL.js:32
+wi @ vendor-qTbnscYL.js:29
+zu @ vendor-qTbnscYL.js:29
+pu @ vendor-qTbnscYL.js:29
+Yc @ vendor-qTbnscYL.js:29
+index-tdDWSrF-.js:104 GameInterface: Réponse brute de l'IA narrative: 🗺️ Vous continuez votre aventure dans ce monde mystérieux. Devant vous se dresse un chemin sinueux menant vers l'inconnu. 🧝‍♀️
+index-tdDWSrF-.js:37 AdvancedNarrativeAI: generateResponse appelé - Provider: gemini, Clé API: (non définie)
+index-tdDWSrF-.js:37 AdvancedNarrativeAI: Aucune clé API disponible, utilisation de la réponse de secours
+generateResponse @ index-tdDWSrF-.js:37
+U @ index-tdDWSrF-.js:104
+Nc @ vendor-qTbnscYL.js:29
+Tc @ vendor-qTbnscYL.js:29
+zc @ vendor-qTbnscYL.js:29
+da @ vendor-qTbnscYL.js:29
+pa @ vendor-qTbnscYL.js:29
+(anonymous) @ vendor-qTbnscYL.js:29
+Oo @ vendor-qTbnscYL.js:32
+wi @ vendor-qTbnscYL.js:29
+zu @ vendor-qTbnscYL.js:29
+pu @ vendor-qTbnscYL.js:29
+Yc @ vendor-qTbnscYL.js:29
+index-tdDWSrF-.js:104 GameInterface: Réponse brute de l'IA narrative: 🔮 Vous continuez votre aventure dans ce monde mystérieux. Devant vous se dresse un chemin sinueux menant vers l'inconnu. 🏰
+script.file-downloads.hash.outbound-links.pageview-props.revenue.tagged-events.js:1 Fetch API cannot load https://plausible.io/api/event. Refused to connect because it violates the document's Content Security Policy.
+u @ script.file-downloads.hash.outbound-links.pageview-props.revenue.tagged-events.js:1
+f @ script.file-downloads.hash.outbound-links.pageview-props.revenue.tagged-events.js:1
+m @ script.file-downloads.hash.outbound-links.pageview-props.revenue.tagged-events.js:1
